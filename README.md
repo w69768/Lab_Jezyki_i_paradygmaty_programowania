@@ -1,1 +1,2 @@
 # Lab_Jezyki_i_paradygmaty_programowania
+Rozwiązania zadań laboratoryjnych
